@@ -6,10 +6,10 @@ PARTENDO da progetto:
 
 [LEARN WEB SERVICES | Free, public SOAP web services example](http://www.learnwebservices.com/)
 
-e codice par client CXF:
+e codice per client CXF:
 https://github.com/vicziani/learnwebservices/tree/master/lwsapp-cxf-client
 
-Per generare il codice da WSDL `mvn generate-sources`.
+Per generare il codice da WSDL: `mvn generate-sources`.
 
 I servizi per cui si sono generati di client sono [hello](http://www.learnwebservices.com/services/hello?WSDL) e [Celsius to Fahrenheit converter](http://www.learnwebservices.com/services/tempconverter?wsdl).
 
