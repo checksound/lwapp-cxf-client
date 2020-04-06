@@ -1,6 +1,6 @@
-# CXF Client 
+# Apache CXF Client 
 
-Utilizzando [CXF](http://cxf.apache.org/) e il plugin di Maven [cxf-codegen-plugin](http://cxf.apache.org/docs/maven-cxf-codegen-plugin-wsdl-to-java.html) per generare dal WSDL le classi java. 
+Utilizzando [Apache CXF](http://cxf.apache.org/) e il plugin di Maven [cxf-codegen-plugin](http://cxf.apache.org/docs/maven-cxf-codegen-plugin-wsdl-to-java.html) per generare dal WSDL le classi java. 
  
 PARTENDO da progetto:
 
